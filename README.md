@@ -21,14 +21,13 @@
 
 ### :woman_technologist: About Me :
 
-I'm a student at 42 School <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="30"> from Porto/Portugal.
+I'm a student at 42 School from Porto/Portugal. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
 
-- :book:
-:open_book: Degree in sports management.
+- :open_book: Degree in sports management.
 
 - :chart: Currently working as a retail store manager.
 
-- :open_file_folder: I fell in love with programming, and right now I'm taking the course at 42 School, check some of my projects that I already developed.
+- :open_file_folder: I fell in love with programming, and right now I'm taking a programming Course at 42 School Porto, check some of my projects that I already developed.
 
 - :seedling: Right now I'm developing my own web site.
 
