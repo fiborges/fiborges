@@ -36,7 +36,7 @@ I'm a student at 42 School from Porto/Portugal. <img src="https://media.giphy.co
       - Excel (Basic to Advanced);
       - Full Course on C and C++ Language - Beginner To Advanced;
   #### Certificate
-<img src="" width="200" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/filipa%201.jpg" width="200" height="120"/>
   
       - Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile (in Process);
       - Full Power BI - From Basic to Advanced (in Process);
