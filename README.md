@@ -31,11 +31,12 @@ I'm a student at 42 School from Porto/Portugal. <img src="https://media.giphy.co
 
 - :seedling: Right now I'm developing my own web site.
   
-- 💼 Udemy course:
-      Excel (Basic to Advanced);
-      Full Course on C and C++ Language - Beginner To Advanced;
-      Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile (in Process);
-      Full Power BI - From Basic to Advanced (in Process);
+- 💼 Udemy courses:
+  
+      - Excel (Basic to Advanced);
+      - Full Course on C and C++ Language - Beginner To Advanced;
+      - Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile (in Process);
+      - Full Power BI - From Basic to Advanced (in Process);
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FilipaBorges-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-borges-72aab4151/)
 
