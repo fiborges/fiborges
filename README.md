@@ -38,7 +38,9 @@ I'm a student at 42 School from Porto/Portugal. <img src="https://media.giphy.co
   #### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/filipa%201.jpg" width="200" height="120"/>
   
-      - Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile (in Process);
+      - Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile;
+  #### Certificate  
+<img src="https://github.com/fiborges/fiborges/blob/main/filipa2.jpg" width="200" height="120"/>
       - Full Power BI - From Basic to Advanced (in Process);
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FilipaBorges-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-borges-72aab4151/)
