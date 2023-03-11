@@ -25,8 +25,6 @@ Hello there! My name is Filipa and I'm a programming enthusiast. I'm currently s
 
 In my professional life, I am a store manager and I have developed a passion for leadership. I love working with people and building strong teams that achieve their goals together. I believe that good leadership is essential in any field, and I strive to apply these principles in both my personal and professional life.
 
-Outside of work and programming, I enjoy spending time with my family and pets.
-
 Thank you for stopping by my GitHub page. Feel free to reach out to me if you have any questions or just want to say hi. I'm always open to making new connections and learning from others.<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
 
 - :open_book: Degree in sports management.
