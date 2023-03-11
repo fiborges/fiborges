@@ -33,7 +33,7 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
 
 - :open_file_folder: I fell in love with programming, and right now I'm taking a programming Course at 42 School Porto, check some of my projects that I already developed.
 
-- :seedling: In developing my own <a href="www.filipaborges.com">Website</a>.
+- :seedling: Join me on my journey as a new mom and lifelong learner by visiting my website. I share my adventures, experiences, and personal growth, and I would love for you to come along for the ride. Click the link to explore and be inspired!" <a href="www.filipaborges.com">FilipaBorges.com</a>.
   
 - 💼 Udemy courses:
   
