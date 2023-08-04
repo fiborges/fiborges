@@ -37,7 +37,7 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
   
 - 💼 Complementary courses:
 
-  Scrum Master PSM 1 - Scrum Master Certification - Agile
+Scrum Master PSM 1 - Scrum Master Certification - Agile
   ### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/scrum%20.%20udemy.jpeg" width="200" height="120"/>
 
