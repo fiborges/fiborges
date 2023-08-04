@@ -35,17 +35,22 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
 
 - :seedling: Join me on my journey as a new mom and lifelong learner by visiting my website. I share my adventures, experiences, and personal growth, and I would love for you to come along for the ride. Click the link to explore and be inspired! <a href="https://filipaborges.com">Filipaborges.com</a>.
   
-- 💼 Udemy courses:
-  
-      - Excel (Basic to Advanced);
-      - Full Course on C and C++ Language - Beginner To Advanced;
+- 💼 Complementary courses:
+
+  Scrum Master PSM 1 - Scrum Master Certification - Agile
+  ### Certificate
+  <img src="https://github.com/fiborges/fiborges/blob/main/scrum%20.%20udemy.jpeg" width="200" height="120"/>
+
+  Full Course on C and C++ Language - Beginner To Advanced;
   #### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/filipa%201.jpg" width="200" height="120"/>
   
-      - Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile;
+  Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile;
   #### Certificate  
 <img src="https://github.com/fiborges/fiborges/blob/main/filipa2.jpg" width="200" height="120"/>
-      - Full Power BI - From Basic to Advanced (in Process);
+
+
+      
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FilipaBorges-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-borges-72aab4151/)
 
