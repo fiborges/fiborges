@@ -37,23 +37,23 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
   
 - 💼 Complementary courses:
 
-- Python and APPS
+## Python and APPS
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/1695401804768%20(1).jpeg" width="200" height="120"/>
 
-Scrum Master PSM 1 - Scrum Master Certification - Agile
+## Scrum Master PSM 1 - Scrum Master Certification - Agile
   ### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/scrum%20.%20udemy.jpeg" width="200" height="120"/>
 
- DOCKER completo - Do Zero ao Avançado
+## DOCKER completo - Do Zero ao Avançado
   ### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/UC-af4523f4-053c-4cb9-80b2-ead6247bf4ad.jpeg" width="200" height="120"/>
 
-  Full Course on C and C++ Language - Beginner To Advanced;
+## Full Course on C and C++ Language - Beginner To Advanced;
   #### Certificate
 <img src="https://github.com/fiborges/fiborges/blob/main/filipa%201.jpg" width="200" height="120"/>
   
-  Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile;
+## Project Management, MS Project, Leadership, Negotiation, GTD, SCRUM Agile;
   #### Certificate  
 <img src="https://github.com/fiborges/fiborges/blob/main/filipa2.jpg" width="200" height="120"/>
 
