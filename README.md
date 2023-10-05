@@ -39,7 +39,7 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
 
 - Python and APPS
   ### Certificate 
-<img src="https://github.com/fiborges/fiborges/blob/main/scrum%20.%20udemy.jpeg" width="200" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/1695401804768.pdf" width="200" height="120"/>
 
 Scrum Master PSM 1 - Scrum Master Certification - Agile
   ### Certificate
