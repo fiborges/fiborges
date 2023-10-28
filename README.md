@@ -88,6 +88,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"
 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img
 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
+  <img
+src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Canva" width="40" height="40"/>
+  <img
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Canva" **alt="Jupyter" width="40" height="40"/>
 
 
 
