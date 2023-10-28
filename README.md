@@ -47,7 +47,7 @@ Thank you for stopping by my GitHub page. Feel free to reach out to me if you ha
 
 ## Scrum Master PSM 2 - Scrum Master Certification - Agile
   ### Certificate
-<img src="https://github.com/fiborges/fiborges/blob/main/certeficado%20psm2.jpeg" width="200" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/certificado%20psm2.jpeg" width="200" height="120"/>
 
 ## DOCKER completo - Do Zero ao Avançado
   ### Certificate
