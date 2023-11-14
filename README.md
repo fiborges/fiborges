@@ -21,11 +21,24 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! My name is Filipa and I'm a programming enthusiast. I'm currently studying programming and I'm excited to explore the various opportunities this field offers.
+Greetings fellow code adventurers! 
 
-In my professional life, I am a store manager and I have developed a passion for leadership. I love working with people and building strong teams that achieve their goals together. I believe that good leadership is essential in any field, and I strive to apply these principles in both my personal and professional life.
+I'm Filipa, a programming aficionado on a quest for excellence. Currently immersed in the intriguing realms of programming at 42 School Porto, I'm crafting my skills in the art of code.
 
-Thank you for stopping by my GitHub page. Feel free to reach out to me if you have any questions or just want to say hi. I'm always open to making new connections and learning from others.<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
+In my professional life, I steer the ship as a retail store manager, reveling in the intricacies of leadership and team building. The belief that robust leadership is the cornerstone of success echoes in both my personal and professional pursuits.
+
+But let's delve into the heart of my code repository. 
+🌐 Here, you'll find a fusion of my technical prowess and creative endeavors. 
+From crafting 2D and 3D games using graphical libraries to orchestrating algorithms that dance with the art of number sorting, I've left digital footprints that speak to my commitment to excellence.
+
+Ever tried navigating a Bash mini-shell? I've not only ventured into that territory but replicated one from scratch. 
+It's the kind of challenge that fuels my passion for problem-solving and innovative thinking.
+
+On the data front, my Python journey isn't just a course; it's a love affair with the intricacies of data analysis, with Power BI as my trusty sidekick. Complemented by a degree in sports management, my journey is a dynamic intersection of diverse interests and skills.
+
+Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's connect, collaborate, and elevate the world of code together. Excited to explore the possibilities that lie ahead! 💻✨
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
 
 - :open_book: Degree in sports management.
 
