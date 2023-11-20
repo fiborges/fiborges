@@ -49,7 +49,9 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 - :seedling: Join me on my journey as a new mom and lifelong learner by visiting my website. I share my adventures, experiences, and personal growth, and I would love for you to come along for the ride. Click the link to explore and be inspired! <a href="https://filipaborges.com">Filipaborges.com</a>.
   
 - 💼 Complementary courses:
-
+## Data Analyst
+  ### Certificate 
+<img src="https://github.com/fiborges/fiborges/blob/main/Data_Analyst.jpeg" width="200" height="120"/>
 ## Python and APPS
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/1695401804768%20(1).jpeg" width="200" height="120"/>
