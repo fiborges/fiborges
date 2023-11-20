@@ -52,6 +52,7 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 ## Data Analyst
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/Data_Analyst.jpeg" width="200" height="120"/>
+
 ## Python and APPS
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/1695401804768%20(1).jpeg" width="200" height="120"/>
