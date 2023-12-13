@@ -46,7 +46,7 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 
 - :open_file_folder: I fell in love with programming, and right now I'm taking a programming Course at 42 School Porto, check some of my projects that I already developed.
 
-- :seedling: Join me on my journey as a new mom and lifelong learner by visiting my website. I share my adventures, experiences, and personal growth, and I would love for you to come along for the ride. Click the link to explore and be inspired! <a href="https://filipaborges.com">Filipaborges.com</a>.
+- :bar_chart: I am consistently expanding my skill set by undertaking various courses and certifications in diverse areas such as SQL, Python, data analysis and much more... My goal is to specialize in data analysis and business analysis, and to achieve this, I actively seek opportunities to enhance my expertise in these fields. The continuous pursuit of knowledge reflects my commitment to staying at the forefront of the rapidly evolving tech landscape, ensuring that I am well-equipped to tackle the challenges of data-driven decision-making and business analysis.
   
 - 💼 Complementary courses:
 ## Data Analyst
