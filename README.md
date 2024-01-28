@@ -53,6 +53,10 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/Data_Analyst.jpeg" width="200" height="120"/>
 
+## The Business Intelligence Analyst Course 2024
+  ### Certificate 
+<img src="https://github.com/fiborges/fiborges/blob/main/UC-ddc03571-711a-47b9-9f4a-499ed9b65dd1.jpg" width="200" height="120"/>
+
 ## Python and APPS
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/1695401804768%20(1).jpeg" width="200" height="120"/>
