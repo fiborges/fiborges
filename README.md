@@ -49,17 +49,25 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 - :bar_chart: I am consistently expanding my skill set by undertaking various courses and certifications in diverse areas such as SQL, Python, data analysis and much more... My goal is to specialize in data analysis and business analysis, and to achieve this, I actively seek opportunities to enhance my expertise in these fields. The continuous pursuit of knowledge reflects my commitment to staying at the forefront of the rapidly evolving tech landscape, ensuring that I am well-equipped to tackle the challenges of data-driven decision-making and business analysis.
   
 - 💼 Complementary courses:
+## SCRUM MASTER PSM1
+  ### Certificate 
+<img src="https://github.com/fiborges/fiborges/blob/main/SQL.jpeg" height="120"/>
+
 ## Data Analyst
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/Data_Analyst.jpeg" width="200" height="120"/>
 
 ## SQL Analyst
   ### Certificate 
-<img src="https://github.com/fiborges/fiborges/blob/main/Data_Analyst.jpeg" width="200" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/SQL.jpeg" height="120"/>
 
 ## The Business Intelligence Analyst Course 2024
   ### Certificate 
 <img src="https://github.com/fiborges/fiborges/blob/main/UC-ddc03571-711a-47b9-9f4a-499ed9b65dd1.jpg" width="200" height="120"/>
+
+## CISCO Data Analyst
+  ### Certificate 
+<img src="https://github.com/fiborges/fiborges/blob/main/SQL.jpeg" height="120"/>
 
 ## Python and APPS
   ### Certificate 
