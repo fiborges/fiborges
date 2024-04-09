@@ -67,7 +67,7 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 
 ## CISCO Data Analyst
   ### Certificate 
-<img src="https://github.com/fiborges/fiborges/blob/main/SQL.jpeg" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/data.png" height="120"/>
 
 ## Python and APPS
   ### Certificate 
