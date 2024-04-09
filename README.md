@@ -51,7 +51,7 @@ Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's 
 - 💼 Complementary courses:
 ## SCRUM MASTER PSM1
   ### Certificate 
-<img src="https://github.com/fiborges/fiborges/blob/main/SQL.jpeg" height="120"/>
+<img src="https://github.com/fiborges/fiborges/blob/main/Professional%20Scrum%20Master%20I1.jpg" height="120"/>
 
 ## Data Analyst
   ### Certificate 
