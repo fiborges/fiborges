@@ -21,32 +21,30 @@
 
 ### :woman_technologist: About Me :
 
-Greetings fellow code adventurers! 
+👋 Hello! I'm a passionate software developer with a strong technical foundation and a knack for transforming data into actionable insights. Currently immersed in the rigorous programming curriculum at 42 Porto, I have honed my skills in languages like C, C++, and Python, and I'm eager to bring my expertise to innovative projects.
 
-I'm Filipa, a programming aficionado on a quest for excellence. Currently immersed in the intriguing realms of programming at 42 School Porto, I'm crafting my skills in the art of code.
+### 🌟 Journey & Expertise
 
-In my professional life, I steer the ship as a retail store manager, reveling in the intricacies of leadership and team building. The belief that robust leadership is the cornerstone of success echoes in both my personal and professional pursuits.
+From dissecting complex algorithms in C++ to building robust APIs in Python, my journey has been fueled by a relentless curiosity and a desire to solve real-world problems. My experience spans across:
 
-But let's delve into the heart of my code repository. 
-🌐 Here, you'll find a fusion of my technical prowess and creative endeavors. 
-From crafting 2D and 3D games using graphical libraries to orchestrating algorithms that dance with the art of number sorting, I've left digital footprints that speak to my commitment to excellence.
+- **Full-Stack Development:** Proficient in creating dynamic web applications using Flask and React. Whether it's a sleek frontend or a powerful backend, I thrive on crafting solutions that are both functional and elegant.
+- **Data Analytics & Visualization:** Leveraging tools like Power BI, Tableau, and advanced Excel techniques, I have a proven track record of turning raw data into strategic business decisions. My projects often feature comprehensive data cleaning, exploratory data analysis (EDA), and impactful visualizations.
+- **SQL Mastery:** Skilled in using PostgreSQL and MySQL to perform intricate data queries, manage databases, and extract valuable insights from e-commerce datasets.
 
-Ever tried navigating a Bash mini-shell? I've not only ventured into that territory but replicated one from scratch. 
-It's the kind of challenge that fuels my passion for problem-solving and innovative thinking.
+### 🔍 Notable Projects
 
-On the data front, my Python journey isn't just a course; it's a love affair with the intricacies of data analysis, with Power BI as my trusty sidekick. Complemented by a degree in sports management, my journey is a dynamic intersection of diverse interests and skills.
+- **[Python Course Repository](https://github.com/fiborges/CFG-PHYTHON):** A detailed journey through Python programming and app development, featuring diverse projects and exercises that showcase my growing expertise.
+- **[SQL E-commerce Sales Analysis](https://github.com/fiborges/Sql-ecommerce-sales):** An in-depth analysis of e-commerce transactions, utilizing SQL and Python to unearth business performance insights and customer behavior patterns.
+- **[Task Manager API](https://github.com/fiborges/task-manager-api):** Developed a robust task management API with user authentication and CRUD functionalities, accompanied by a responsive frontend using HTML, CSS, and JavaScript.
+- **[Data Analyst Projects](https://github.com/fiborges/Data-Analyst):** A collection of data analysis endeavors demonstrating my proficiency with Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+- **[E-commerce Data Analysis](https://github.com/fiborges/E-commerce-data-analysis):** Comprehensive data analysis project that includes data cleaning, EDA, and visualization to interpret sales performance and customer behaviors.
+- **[42 School Projects](https://github.com/fiborges/Piscine42):** A testament to my problem-solving skills, featuring various challenging projects completed during the 42 programming course.
 
-Feel free to explore my projects and join me on this coding odyssey. 🚀 Let's connect, collaborate, and elevate the world of code together. Excited to explore the possibilities that lie ahead! 💻✨
+### 🎯 My Vision
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
+I am driven by the belief that technology can solve some of the most pressing challenges of our time. As I continue to expand my knowledge and refine my skills, I aim to contribute to projects that are innovative, impactful, and transformative. I am seeking opportunities that will allow me to grow as a developer, collaborate with like-minded professionals, and make meaningful contributions to the tech community.
 
-- :open_book: Degree in sports management.
-
-- :chart: Currently working as a retail store manager.
-
-- :open_file_folder: I fell in love with programming, and right now I'm taking a programming Course at 42 School Porto, check some of my projects that I already developed.
-
-- :bar_chart: I am consistently expanding my skill set by undertaking various courses and certifications in diverse areas such as SQL, Python, data analysis and much more... My goal is to specialize in data analysis and business analysis, and to achieve this, I actively seek opportunities to enhance my expertise in these fields. The continuous pursuit of knowledge reflects my commitment to staying at the forefront of the rapidly evolving tech landscape, ensuring that I am well-equipped to tackle the challenges of data-driven decision-making and business analysis.
+Let's create something amazing together! 🚀
   
 - 💼 Complementary courses:
 ## SCRUM MASTER PSM1
